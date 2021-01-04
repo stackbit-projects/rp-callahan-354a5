@@ -10,7 +10,7 @@ sections:
     section_id: intro
     type: section_content
     content: >+
-      I am a PhD candidate working with Dr. Cliff Riebe at the University of
+      I am a Ph.D. candidate working with Dr. Cliff Riebe at the University of
       Wyoming. My dissertation focuses on quantifying how subsurface weathering
       influence geomorphic and ecological processes. More specifically, I have
       worked on quantifying how hillslope weathering influences, hillslope
