@@ -1,6 +1,6 @@
 ---
 title: ''
-subtitle: Just a generic subtitle for the page
+subtitle: News
 template: page
 ---
 
