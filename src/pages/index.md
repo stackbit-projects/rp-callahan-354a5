@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Russell Callahan
-    subtitle: '### Ph.D Candidate University of Wyoming'
+    subtitle: '### Ph.D. Candidate University of Wyoming'
     image: images/20170730_113606_resize2.jpg
   - title: Text
     section_id: intro
