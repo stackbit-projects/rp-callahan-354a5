@@ -1,6 +1,6 @@
 ---
 title: CV
-subtitle: Aliquam lobortis faucibus blandit
+subtitle: ''
 template: page
 ---
 
