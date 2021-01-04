@@ -30,6 +30,12 @@
                 "label": "Twitter",
                 "url": "https://twitter.com/",
                 "new_window": true
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "new_window": false,
+                "type": "action"
             }
         ]
     },
