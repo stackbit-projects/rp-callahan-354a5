@@ -1,6 +1,6 @@
 ---
 title: Publications
-subtitle: Vanilla styleguide.
+subtitle: ''
 template: page
 ---
 
