@@ -32,7 +32,7 @@
                 "new_window": true
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Google Scholar",
                 "url": "lorem-ipsum",
                 "new_window": false,
                 "type": "action"
