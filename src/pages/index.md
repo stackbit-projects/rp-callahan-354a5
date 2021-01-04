@@ -6,6 +6,21 @@ sections:
     title: Russell Callahan
     subtitle: '### Ph.D. Candidate University of Wyoming'
     image: images/20170730_113606_resize2.jpg
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    type: section_content
+    image: images/incredible-sycamore.png
   - title: Text
     section_id: intro
     type: section_content
@@ -27,20 +42,5 @@ sections:
       more information on my research check out my publications or reach out to
       me at [rcallaha@uwyo.edu](rcallaha@uwyo.edu) with any questions.
 
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    type: section_content
-    image: images/incredible-sycamore.png
 template: advanced
 ---
