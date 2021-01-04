@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: New paper out in GRL
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 date: '2021-01-04'
