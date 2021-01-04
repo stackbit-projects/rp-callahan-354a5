@@ -10,7 +10,7 @@ sections:
     section_id: intro
     type: section_content
     content: >+
-      ##About Me##
+      ## About Me
 
 
       I am a Ph.D. candidate working with Dr. Cliff Riebe at the University of
