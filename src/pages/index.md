@@ -44,6 +44,5 @@ sections:
       understanding subsurface weathering and water storage capacity across
       landscapes.
     type: section_content
-    image: images/incredible-sycamore.png
 template: advanced
 ---
