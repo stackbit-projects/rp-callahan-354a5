@@ -38,7 +38,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "OR",
                 "url": "lorem-ipsum",
                 "new_window": false,
                 "type": "action"
