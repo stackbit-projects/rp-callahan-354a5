@@ -1,5 +1,5 @@
 ---
-title: Ipsum dolor sit amet
+title: CV
 subtitle: Aliquam lobortis faucibus blandit
 template: page
 ---
