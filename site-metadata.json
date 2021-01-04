@@ -45,11 +45,6 @@
                 "label": "LinkedIn",
                 "url": "https://www.linkedin.com/",
                 "new_window": true
-            },
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
-                "new_window": true
             }
         ]
     },
