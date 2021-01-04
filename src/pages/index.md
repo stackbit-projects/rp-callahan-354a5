@@ -37,7 +37,7 @@ sections:
 
 
       Check out my [new paper](https://doi.org/10.1029/2020GL088322) out in
-      **Geophysical Research Letters**. The paper presents a new approach for
+      *Geophysical Research Letters*. The paper presents a new approach for
       quantifying subsurface weathering across hillslope scales. This approach
       aggregates porosity across geophysical surveys to produce a site-wide
       perspective of subsurface weathering and has direct implications for
