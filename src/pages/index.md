@@ -10,24 +10,8 @@ sections:
     section_id: intro
     type: section_content
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam,
-      elementum consectetur elit non, tempus varius leo. In ut bibendum mauris.
-      Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed
-      condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis.
-      Aliquam facilisis neque eget ligula aliquam consequat.
-
-      ### This is an H3. Use it for subheads and subsections.
-
-      Donec malesuada, augue eu blandit porta, metus metus auctor leo, non
-      dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an
-      inline link](#) placerat non, eleifend tempor dolor. Quisque sed nisl
-      elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea
-      dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec,
-      condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia
-      aliquam velit. Mauris ut purus in nisl suscipit feugiat.
-
-      Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
-      Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
-      porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
+      I am a PhD candidate working with Dr. Cliff Riebe at the University of
+      Wyoming. My research focuses on quantifying how subsurface weathering
+      influence geomorphic and ecological processes. My dissetation work   
 template: advanced
 ---
