@@ -24,9 +24,8 @@ sections:
       has greatly benefitted from transdisciplinary collaborations through the
       Southern Sierra Critical Zone Observatory and the recently funded [Bedrock
       Critical Zone Collaborative Network](https://bedrockczn.github.io/). For
-      more information on my research check out my publications. Also, feel free
-      to reach out to me at [rcallaha@uwyo.edu](rcallaha@uwyo.edu) with any
-      questions.
+      more information on my research check out my publications or reach out to
+      me at [rcallaha@uwyo.edu](rcallaha@uwyo.edu) with any questions.
 
 template: advanced
 ---
