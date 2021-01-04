@@ -1,7 +1,7 @@
 ---
 title: New paper out in GRL
 subtitle: ''
-excerpt: lorem-ipsum
+excerpt: ''
 date: '2021-01-04'
 template: post
 ---
