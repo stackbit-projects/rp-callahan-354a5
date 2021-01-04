@@ -27,5 +27,10 @@ sections:
       more information on my research check out my publications or reach out to
       me at [rcallaha@uwyo.edu](rcallaha@uwyo.edu) with any questions.
 
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    has_more_link: true
+    more_link_text: lorem-ipsum
+    type: section_posts
 template: advanced
 ---
