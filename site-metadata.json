@@ -36,6 +36,12 @@
                 "url": "lorem-ipsum",
                 "new_window": true,
                 "type": "action"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "new_window": false,
+                "type": "action"
             }
         ]
     },
