@@ -41,5 +41,6 @@ sections:
 
       - dolor sit amet
     type: section_content
+    image: images/incredible-sycamore.png
 template: advanced
 ---
