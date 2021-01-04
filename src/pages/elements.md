@@ -1,5 +1,5 @@
 ---
-title: UI Kit
+title: Publications
 subtitle: Vanilla styleguide.
 template: page
 ---
