@@ -39,7 +39,7 @@
             },
             {
                 "label": "ORCiD",
-                "url": "lorem-ipsum",
+                "url": "https://orcid.org/0000-0002-0091-3446",
                 "new_window": false,
                 "type": "action"
             }
