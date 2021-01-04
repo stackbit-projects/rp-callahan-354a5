@@ -9,10 +9,6 @@
                 "url": "/"
             },
             {
-                "label": "News",
-                "url": "/generic/"
-            },
-            {
                 "label": "Publications",
                 "url": "/elements/"
             },
