@@ -43,7 +43,9 @@ sections:
       perspective of subsurface weathering and has direct implications for
       understanding subsurface weathering and water storage capacity across
       landscapes.
+
+
+      ![GRL_image](https://rp-callahan.github.com/images/grl.png)
     type: section_content
-    image: images/incredible-sycamore.png
 template: advanced
 ---
