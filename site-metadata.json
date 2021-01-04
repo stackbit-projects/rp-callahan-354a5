@@ -33,7 +33,7 @@
             },
             {
                 "label": "Google Scholar",
-                "url": "lorem-ipsum",
+                "url": "https://scholar.google.com/citations?user=k76PA1kAAAAJ&hl=en",
                 "new_window": true,
                 "type": "action"
             },
